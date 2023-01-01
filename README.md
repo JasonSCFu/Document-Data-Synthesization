@@ -15,7 +15,7 @@ into a document
 ![Document](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/source/det_background_images/de_val_13.jpg)
 
 The output will look something like:
-![Result]()
+![Result](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/debug/idcard_det_train/0_16725821071229827.jpg)
 
 
 
