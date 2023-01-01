@@ -5,7 +5,7 @@
 
 In a lot of document object detection tasks such as signature detection, card detection, 
 large volume of data are required by complex CV algorithms. Manual annotation of objects can take up a lot of time, synthesizing document images is a handy way to get around this problem. This repo will show how to insert objects into a document template and 
-at the same time, automatically generate the bounding box, key points for the modelling task.
+at the same time, automatically generate the bounding box, key points etc. annoation in COCO format for the modelling task.
 
 For illustration purpose, I will demostrate how to insert signature .
 
