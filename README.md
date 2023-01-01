@@ -9,7 +9,7 @@ at the same time, automatically generate the bounding box, key points for the mo
 
 For illustration purpose, I will demostrate how to insert signature .
 
-![Signature](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/debug/idcard_train/01_027.png)
+![Signature](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/debug/idcard_train/01_054.png)
 
 into a document
 ![Document](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/source/det_background_images/de_val_13.jpg)
