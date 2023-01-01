@@ -1,0 +1,10 @@
+imgaug
+opencc
+easydict
+opencv-python
+pillow
+numpy
+glob2
+#json
+#random
+#string
