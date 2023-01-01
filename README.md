@@ -20,14 +20,14 @@ The output will look something like:
 
 
 
-#### Steps:
+#### Steps to generate the above document:
 
 > 1: place document template in source\det_background_images
 place signature in debug\idcard_train
 
 > 2: run sig_doc_generation.py, the output will be saved in debug\idcard_det_train
 
-> 3: run convert2coco.py, the output will be saved in debug\card_coco\test
+> 3: run convert2coco.py, the coco format output will be saved in debug\card_coco\test
 
 
 I download the English signatures data from [Kaggle](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset?resource=download)
