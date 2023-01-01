@@ -12,7 +12,7 @@ For illustration purpose, I will demostrate how to insert signature .
 ![Signature](C:\Users\ssche\Desktop\sythesized data\debug\idcard_train\01_027.png)
 
 into a document
-![Document]()
+![Document](https://github.com/JasonSCFu/Document-Data-Synthesization/blob/main/source/det_background_images/de_val_13.jpg)
 
 The output will look something like:
 
